@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/kame-style/kame-style/output/snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/kame-style/gouravk3innov/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ```python
